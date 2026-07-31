@@ -3,7 +3,7 @@
 <a href="https://modrinth.com/mod/aeronautics-hot-air-fix" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.modrinth.com/data/cached_images/18307cae7a9ba7fc5572ae82017c79bc03bb2f5d_0.webp" alt="Modrinth" width="200">
 </a>
-<a href="https://www.curseforge.com/minecraft/mc-mods/aeronautics-hot-air-fix/preview" target="_blank" rel="noopener noreferrer">
+<a href="https://www.curseforge.com/minecraft/mc-mods/aeronautics-hot-air-fix" target="_blank" rel="noopener noreferrer">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Favailable%2Fcurseforge_vector.svg&n=-1" alt="Curseforge" width="200">
 </a>
 
