@@ -17,4 +17,4 @@ As result, the hot air overlay is completely gone, solving the issue.
 [![After](https://cdn.modrinth.com/data/Qhi65c7K/images/e4c75aaca7a5bc6308af72bd9f25b797c8c22a6f.jpeg)](https://cdn.modrinth.com/data/Qhi65c7K/images/e4c75aaca7a5bc6308af72bd9f25b797c8c22a6f.jpeg)
 
 This mod is available as Neoforge mod and normal resource pack.\
-You are allowed to put this mod into your modpack, even outside of modrinth, following the [MIT License](https://github.com/katzzotik/aeronautics-hot-air-fix/blob/main/LICENSE).
+You are allowed to put this mod into your modpack, following the [0BSD License](https://github.com/katzzotik/aeronautics-hot-air-fix/blob/main/LICENSE).
